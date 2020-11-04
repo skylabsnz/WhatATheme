@@ -4,48 +4,42 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl:
 
 # Title of the Site
-title: What A Theme
+title: Skylabs NZ Blog
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Stargazing, Astrophotography, Astronomy, Night Photography
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Stargazing, Astrophotography, Astronomy, Night Photography
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: http://skylabs.co.nz/images/favicon.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: http://skylabs.co.nz/images/banner.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: skylabsnz@gmail.com
+facebook_username: skylabs.co.nz
+instagram_username: skylabsnz
+github_username:  skylabs.co.nz
+youtube_channel_id: UCKD6GHCrqgmhSXcICPtu7Iw
 
 # Google Analytics
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: skylabs.co.nz
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Jordi Blasco
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about:[Jordi Blasco](https://www.linkedin.com/in/jordiblascopallares/) started to get interested in astronomy since he was a young kid. He has been a very active astronomy advocate and science communicator for the general public. He has been vice-president of Galileo, the astronomical society of the University of Barcelona from 1999 to 2005. Jordi has a licentiate degree (BSc + MSc) in physics with specialisation in computational physics from University of Barcelona (Spain). He is CTO & co-founder of <a href="http://hpcnow.com"><b>HPCNow!</b></a>, a global consulting company focused in High Performance Computing, High Performance Data Analytics, Machine Learning and Artificial Intelligence. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
