@@ -1,7 +1,7 @@
 ---
 title: "Buy and Sell Second-Hand Astro Equipment Guide."
 layout: post
-post-image: "/WhatATheme/assets/images/004_fabra_observatory_refractor.jpgg"
+post-image: "/WhatATheme/assets/images/004_fabra_observatory_refractor.jpg"
 description: The most frequent questions after the Stargazing Labs and Landscape Astrophotography Labs are how much cost a telescope and where to buy it. This article provides some directions for buying and selling telescopes and other astronomical equipment on the second-hand market.
 tags:
 - telescope
