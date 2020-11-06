@@ -1,7 +1,7 @@
 ---
 title: "Buy and Sell Second-Hand Astro Equipment Guide."
 layout: post
-post-image: "/WhatATheme/assets/images/004_fabra_observatory_refractor.jpg"
+post-image: "/blog/assets/images/004_fabra_observatory_refractor.jpg"
 description: The most frequent questions after the Stargazing Labs and Landscape Astrophotography Labs are how much cost a telescope and where to buy it. This article provides some directions for buying and selling telescopes and other astronomical equipment on the second-hand market.
 tags:
 - telescope
@@ -10,8 +10,7 @@ tags:
 
 The most frequent questions after the [Stargazing Labs](http://skylabs.co.nz/stargazing_lab.html) and [Landscape Astrophotography Labs](http://skylabs.co.nz/astrophotography_lab.html) are how much cost a telescope and where to buy it. I usually recommend to have a look at this article ([What Telescope is Best for a Beginner](http://skylabs.co.nz/blog/#/2020/10/06/what-telescope-is-best-for-a-beginner)). Still, when the second-hand market appears in that conversation, I don't feel very confident giving just 2 minutes' advice. There are a lot of things that should be considered.
 
-I bought and sold several telescopes and multiple components over the last 25 years. Some people are keen to buy only new equipment, but at some point, the budget will become tight, especially when you want to dive deeper into astrophotography.
-
+I bought and sold several telescopes and multiple components over the last 25 years. Some people are keen to buy only new equipment, but at some point, the budget will become tight, especially when you want to dive deeper into astrophotograph
 If visual astronomy is already quite expensive for you, astrophotography will blow your budget just with a few components. For example, a quad-band narrow filter may cost as much as a 12" Dobsonian telescope.
 
 The budget limitation is usually the main reason to buy, sell, and swap your equipment in the second-hand market.
@@ -46,7 +45,7 @@ I would personally not consider buying or selling a computerized mount +5 years 
 
 Please don't read me wrong. I'm not saying that an old telescope can not perform and be useful, but you should be aware of the potential ongoing costs for maintaining an old equipment. Actually, I had the magnificent opportunity to use the double refractor built by Mailhat (Paris) in 1904, hosted in the [Fabra Observatory](https://en.wikipedia.org/wiki/Fabra_Observatory) during my physics degree at the University of Barcelona. This outstanding telescope is one of the oldest telescopes in the world, still in production for research and outreach.
 If you have an opportunity to visit Barcelona in the future, consider booking one of the night guided tours at the Fabra Observatory.
-<img src="img/004_fabra_observatory_refractor.jpg" width="100%" />
+<img src="/blog/assets/images/004_fabra_observatory_refractor.jpg" width="100%" />
 
 ### Check the Optics
 
@@ -55,7 +54,7 @@ Reflecting telescopes are easy to maintain, specially Newtonians, classical Cass
 Refractor and catadioptric telescopes require additional considerations. If the previous owner had no too much care of those optics, you should expect, at least, fungus and dust, and potentially other defects in the optics like oil stains. Cleaning those telescopes is not easy and often requires professional and specialized services to do it right. Sometimes, you only need an affordable UV light to kill the potential fungus. That operation will prevent the fungus from growing, but it will not clean the optics.
 If you have a Maksutov or Schmidt correction lens and you want to clean it by yourself, consider using [Baader Wonder Fluid](https://www.baader-planetarium.com/en/optical-wonder-cleaning-fluid.html) rather than isopropyl alcohol as suggested by most bloggers and "YouTubers".
 
-<img src="img/004_fungus_stain.jpg" width="100%" />
+<img src="/blog/assets/images/004_fungus_stain.jpg" width="100%" />
 
 
 In order to check very evident signs of fungus and dust in these telescopes, look into the lens from the side and place a very bright light in the focuser. You will be able to see dust and fungus in a projector beam in a dark room. If you see a haze, it might be due to internal lubricants that vaporized slowly and collected in the back of the glass. That can be avoided if the telescope is not exposed to a high temperature and humidity.
@@ -69,7 +68,7 @@ I mentioned the mechanical degradation of the telescope mounts in the previous s
 In astrophotography, the focusers are usually upgraded with premium models like Feather Touch or MoonLite. Alt-Azimuth telescopes rely on a field de-rotator. Some people prefer to keep the premium focusers and return the original focuser before selling the telescope. If that is the situation, consider checking that the focuser is correctly replaced, perfectly aligned, and it reaches the critical focus.
 
 In general, the mechanical components degrade quite soon or even break when the owners push them to the limit. For example, using a relatively small mount to move a massive telescope or using a modest focuser to hold a very heavy camera at the end of a very long imaging train.
-<img src="img/004_imaging_train.jpg" width="100%" />
+<img src="/blog/assets/images/004_imaging_train.jpg" width="100%" />
 *Image by Andrew Harrison*
 
 My advice is to check every single mechanical component. Look for evident missing screws, broken parts, or rust. Make sure bearings work smoothly and make sure the focuser doesn't have bent shafts or chipped gears.
@@ -80,7 +79,7 @@ Modern astrophotography equipment has a lot of electronic components. That inclu
 
 My advice is to make sure the electronics work by using them. Check the controller firmware version. Be aware that some controllers just can't be upgraded, either because the developer doesn't offer that or because the product is no longer supported.
 
-<img src="img/004_eq6_stripdown.jpg" width="100%" />
+<img src="/blog/assets/images/004_eq6_stripdown.jpg" width="100%" />
 
 The cost of repairing an outdated electronic component can be quite expensive, and sometimes the only option is trying to find the required replacement on eBay or a similar platform. You must be aware that getting a replacement will be a challenge once the product is no longer manufactured. If you bought some equipment made in Europe, you could still be safe. The European Commission in order to reduce the electronic waste and CO2 footprint, required since 2019 to have spare parts readily available for 7 to 10 years after the purchase of the product. That applies to the most common household electronics; it doesn't necessarily mean that astro equipment will follow this approach.
 

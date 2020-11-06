@@ -28,6 +28,13 @@
             <!--Link Section-->
             <div class="column has-text-white">
                 <h3>More Links</h3>
+                <li>
+                  <a href="https://skylabs.co.nz/shop/" target="_blank" rel="noopener noreferrer">Skylabs Shop</a>
+                </li>
+                <li>
+                  <a href="https://skylabs.co.nz" target="_blank" rel="noopener noreferrer">Skylabs Website</a>
+                </li>
+
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
@@ -52,6 +59,6 @@
         </div>
     </div>
     <div class="has-background-black has-text-centered has-text-white" id="credits">
-        <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} | <a href="https://github.com/thedevslot/WhatATheme" target="_blank" rel="noopener noreferrer">WhatATheme</a> - A Theme made with <i class="fas fa-heart has-text-danger"></i> by <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">TheDevsLot</a> Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+        <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} | <a href="https://skylabs.co.nz" target="_blank" rel="noopener noreferrer">Skylabs NZ</a> - <a href="https://skylabs.co.nz" target="_blank" rel="noopener noreferrer">http://skylabs.co.nz</a>
     </div>
 </footer>

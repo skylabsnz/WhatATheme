@@ -1,7 +1,7 @@
 ---
 title: "Star Tracker Polar Alignment in the Southern Hemisphere."
 layout: post
-post-image: "/WhatATheme/assets/images/002_staradventurer-1.jpg"
+post-image: "/blog/assets/images/002_staradventurer-1.jpg"
 description: Star trackers are becoming quite popular for landscape astrophotography. That type of device is key for capturing stunning images with the Milky Way in the background. Unfortunately, setting up these special mounts can be challenging and frustrating for beginners.
 
 tags:
@@ -14,7 +14,7 @@ Star trackers are becoming quite popular for landscape astrophotography. That ty
 
 Setting up a star tracker in the Northern Hemisphere is relatively easy, thanks to a bright star situated very close to the north celestial pole (Polaris). Unfortunately, there is no such a bright star in the Southern Hemisphere, indicating the south celestial pole. The stars of the Octans constellation represent the closest equivalent to Polaris, but they are in the human eyesight limit, even in a dark and clear sky.
 
-<img src="img/002_octans.png" width="35%" class="center" />
+<img src="/blog/assets/images/002_octans.png" width="35%" class="center" />
 
 
 In addition to that, there are situations where there is no visual access to Polaris or Octans asterism because of a mountain, building, trees, etc. Limiting the compositions and the scenarios that you want to capture just because of that seems entirely unreasonable.
@@ -28,7 +28,7 @@ You need just a few inexpensive accessories to achieve a painless polar alignmen
 
 I previously used a rectified timber with a Vixen dovetail section and four silicone stickers to hold the smartphone. It worked quite well, but finally, I decided to design my own adapter. That particular design allows me to use an iPhone 6,7,8,10 with a protective case (and any other smartphone with similar dimensions), and it also supports QHY PoleMaster. It is compatible with any telescope mount and star tracker with a Vixen dovetail. I made two models, one for Southern Hemisphere and another for Northern Hemisphere (which has a standard slot for a finder).
 
-<img src="img/002_pa_adapter-1.jpg" width="50%" /><img src="img/002_pa_adapter-2.jpg" width="50%" />
+<img src="/blog/assets/images/002_pa_adapter-1.jpg" width="50%" /><img src="img/002_pa_adapter-2.jpg" width="50%" />
 
 The Southern Hemisphere version is currently available on [Trademe](https://www.trademe.co.nz/Browse/Listing.aspx?archive=1&id=2814754675) (New Zealand). Check [Skylabs NZ](http://skylabs.co.nz) for other options.
 
