@@ -72,7 +72,8 @@ I mentioned the mechanical degradation of the telescope mounts in the previous s
 In astrophotography, the focusers are usually upgraded with premium models like Feather Touch or MoonLite. Alt-Azimuth telescopes rely on a field de-rotator. Some people prefer to keep the premium focusers and return the original focuser before selling the telescope. If that is the situation, consider checking that the focuser is correctly replaced, perfectly aligned, and it reaches the critical focus.
 
 In general, the mechanical components degrade quite soon or even break when the owners push them to the limit. For example, using a relatively small mount to move a massive telescope or using a modest focuser to hold a very heavy camera at the end of a very long imaging train.
-<img src="/blog/assets/images/004_imaging_train.jpg" width="100%" />
+
+<img src="/blog/assets/images/004_imaging_train.jpg" width="80%" /><br>
 *Image by Andrew Harrison*
 
 My advice is to check every single mechanical component. Look for evident missing screws, broken parts, or rust. Make sure bearings work smoothly and make sure the focuser doesn't have bent shafts or chipped gears.
@@ -83,7 +84,7 @@ Modern astrophotography equipment has a lot of electronic components. That inclu
 
 My advice is to make sure the electronics work by using them. Check the controller firmware version. Be aware that some controllers just can't be upgraded, either because the developer doesn't offer that or because the product is no longer supported.
 
-<img src="/blog/assets/images/004_eq6_stripdown.jpg" width="100%" />
+<img src="/blog/assets/images/004_eq6_stripdown.jpg" width="80%" />
 
 The cost of repairing an outdated electronic component can be quite expensive, and sometimes the only option is trying to find the required replacement on eBay or a similar platform. You must be aware that getting a replacement will be a challenge once the product is no longer manufactured. If you bought some equipment made in Europe, you could still be safe. The European Commission in order to reduce the electronic waste and CO2 footprint, required since 2019 to have spare parts readily available for 7 to 10 years after the purchase of the product. That applies to the most common household electronics; it doesn't necessarily mean that astro equipment will follow this approach.
 
