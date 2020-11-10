@@ -73,7 +73,7 @@ In astrophotography, the focusers are usually upgraded with premium models like 
 
 In general, the mechanical components degrade quite soon or even break when the owners push them to the limit. For example, using a relatively small mount to move a massive telescope or using a modest focuser to hold a very heavy camera at the end of a very long imaging train.
 
-<img src="/blog/assets/images/004_imaging_train.jpg" width="80%" /><br>
+<img src="/blog/assets/images/004_imaging_train.jpg" width="60%" /><br>
 *Image by Andrew Harrison*
 
 My advice is to check every single mechanical component. Look for evident missing screws, broken parts, or rust. Make sure bearings work smoothly and make sure the focuser doesn't have bent shafts or chipped gears.
