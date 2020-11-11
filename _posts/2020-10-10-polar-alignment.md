@@ -28,7 +28,7 @@ You need just a few inexpensive accessories to achieve a painless polar alignmen
 
 I previously used a rectified timber with a Vixen dovetail section and four silicone stickers to hold the smartphone. It worked quite well, but finally, I decided to design my own adapter. That particular design allows me to use an iPhone 6,7,8,10 with a protective case (and any other smartphone with similar dimensions), and it also supports QHY PoleMaster. It is compatible with any telescope mount and star tracker with a Vixen dovetail. I made two models, one for Southern Hemisphere and another for Northern Hemisphere (which has a standard slot for a finder).
 
-<img src="/blog/assets/images/002_pa_adapter-1.jpg" width="50%" /><img src="img/002_pa_adapter-2.jpg" width="50%" />
+<img src="/blog/assets/images/002_pa_adapter-1.jpg" width="50%" /><img src="/blog/assets/images/002_pa_adapter-2.jpg" width="50%" />
 
 The Southern Hemisphere version is currently available on [Trademe](https://www.trademe.co.nz/Browse/Listing.aspx?archive=1&id=2814754675) (New Zealand). Check [Skylabs NZ](http://skylabs.co.nz) for other options.
 
