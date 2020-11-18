@@ -29,7 +29,7 @@ You will find several Bahtinov masks in the market defined by the size of the ma
 
 The Bahtinov factor is defined as:
 
-<center>BF= *f*/*s*</center>
+<center>BF = f/s</center>
 
 Where “*f*” is the focal length and “*s*” is the size of the slit+space. To get enough resolution, the Bahtinov factor must be at least 150, ideally 200. Obviously, the more lines, the better.
 
