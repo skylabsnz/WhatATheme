@@ -35,7 +35,7 @@ Where “*f*” is the focal length and “*s*” is the size of the slit+space.
 
 That means that the real limiting component is the focal length. The shorter it is, the smaller the slits and spaces have to be. As cuts get too small, you can multiply the “s” number by 3 and use 3rd order spectrum, as it has no visual difference compared to the 1st one.
 
-The following image represents a tri-Bahtinov mask I created for a 75mm lens with BF=150, using the 3rd order spectrum. The slits are ~0.6mm wide, which sits almost at the limit of 3D printing.
+The following image represents a tri-Bahtinov mask I created for a 75mm lens with BF=200, using the 3rd order spectrum. The slits are ~0.6mm wide, which sits almost at the limit of 3D printing.
 
 <img src="/blog/assets/images/003_tri_bahtinov.png" width="80%" class="center" />
 
@@ -50,7 +50,6 @@ The video below provides a quick overview of the user experience using 50mm and 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQ5zj6Sm_1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The following images have been taken with a canon 18-50mm stock lens provide at 50mm f/5.6 using an artificial star out of focus. As you can see, the number of lines contributing to the diffraction pattern in the Skylabs Enhanced Bahtinov mask is significantly higher than the 3D printed ones.
-
 
 There are other brands in the market. The Skylabs Enhanced Bahtinov masks are compatible with the most popular square filter formats (Haida, NiSi, Lee, K&F Concept, Cokin, BENRO, Formatt-Hitech, etc.), which also ensures that it can be used across multiple lens sizes.
 
