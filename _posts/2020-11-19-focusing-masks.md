@@ -43,7 +43,7 @@ Using the Bahtinov mask on shorter focal lengths can be done, but the BF will de
 
 To overcome this challenge, I developed a Bahtinov mask based on optical level acrylic material, which offers 92% light transmission, excellent optical characteristics, light stability, and low internal stress levels for consistent performance. The CNC etched surface ensures very accurate and thin slits that generate a precise diffraction pattern with a minimal light obstruction. The slits are 180µm thick, which is similar size as the diameter of human hair. As a result, it delivers the brightest diffraction spikes for achieving an incredibly accurate focus.
 
-This new type of Bahtinov mask allows increasing the number slits in a small area, and it is several times brighter than traditional ones. In the particular case of Skylabs Enhanced Bahtinov V2, the "*s*" value goes down to 650µm. That give a BF=65 for the popular Samyang/Rokinon 14mm f/2.8 lens and a BF=111 for Samyang/Rokinon 24mm f/1.4. Since those values are lower than the ideal, you may need to take some pictures with the mask before getting the right focus.
+This new type of Bahtinov mask allows increasing the number slits in a small area, and it is several times brighter than traditional ones. In the particular case of [Skylabs Enhanced Bahtinov V2](http://skylabs.co.nz/enhanced_bahtinov_mask.html), the "*s*" value goes down to 650µm. That give a BF=65 for the popular Samyang/Rokinon 14mm f/2.8 lens and a BF=111 for Samyang/Rokinon 24mm f/1.4. Since those values are lower than the ideal, you may need to take some pictures with the mask before getting the right focus.
 
 The video below provides a quick overview of the user experience using 50mm and 75mm and two types of Bahtinov masks.
 
@@ -64,3 +64,5 @@ Tri-Bahtinov masks in camera lenses are a challenge because the shape of the mas
 - If you are using focal lengths over 14mm and slow lenses, optical grade acrylic is the only option.
 - Short focal lengths with a high f-number (slow lenses) will not work even using a Skylabs Enhanced Bahtinov mask V2.
 - If you are using fisheye lenses, the limitation will be on the size of the pixels of your sensor.
+
+If you live in New Zealand, you will find Skylabs Enhanced Bahtinov on [Trademe](https://www.trademe.co.nz/Browse/Listing.aspx?archive=1&id=2814754675). Check the [Skylabs NZ](http://skylabs.co.nz/enhanced_bahtinov_mask.html) website to place international orders.
