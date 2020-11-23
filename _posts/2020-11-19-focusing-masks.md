@@ -49,11 +49,11 @@ The video below provides a quick overview of the user experience using 50mm and 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQ5zj6Sm_1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The following images have been taken with a canon 18-55mm stock lens provide at 55mm f/5.6 using an artificial star out of focus. As you can see, the number of lines contributing to the diffraction pattern in the Skylabs Enhanced Bahtinov mask V1 and V2 are significantly higher than the 3D printed ones.
+The following images have been taken with a canon 18-55mm stock lens provide at 55mm f/5.6 using an artificial star out of focus. As you can see, the number of lines contributing to the diffraction pattern in the Skylabs Enhanced Bahtinov mask V1 (middle) and V2 (right) are significantly higher than the 3D printed ones (left).
 
 <img src="/blog/assets/images/003_bahtinov_a_55mm.png" width="30%" class="center" /><img src="/blog/assets/images/003_bahtinov_b_55mm.png" width="30%" class="center" /><img src="/blog/assets/images/003_bahtinov_c_55mm.png" width="30%" class="center" />
 
-The following images have need taken with the same equipment at 18mm f/3.5. As you can see, the 3D printed version will not generate any pattern, while the Skylabs Enhanced Bahtinov mask V1 and V2 are still able to deliver a useful focusing aid.
+The following images have need taken with the same equipment at 18mm f/3.5. As you can see, the 3D printed version (left) will not generate any pattern, while the Skylabs Enhanced Bahtinov mask V1 (middle) and V2 (right) are still able to deliver a useful focusing aid.
 
 <img src="/blog/assets/images/003_bahtinov_a_18mm.png" width="30%" class="center" /><img src="/blog/assets/images/003_bahtinov_b_18mm.png" width="30%" class="center" /><img src="/blog/assets/images/003_bahtinov_c_18mm.png" width="30%" class="center" />
 
