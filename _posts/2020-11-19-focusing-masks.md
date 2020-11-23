@@ -17,7 +17,7 @@ There are many options in the market, and it is easy to get lost due to the obsc
 I do manufacture, sell, and actively contribute to open-source focusing masks projects.
 This article provides an in-depth analysis of the suitability of each type of focusing mask for camera lenses in order to avoid common frustration. To conduct these tests, I have used a Canon 100D (crop sensor) and two lenses, the stock 18-55mm and 75-300mm.
 
-<img src="/blog/assets/images/003_bahtinov_order.jpg" width="45%" class="center" /><img src="/blog/assets/images/003_bahtinov-masks.png" width="45%" class="center" />
+<img src="/blog/assets/images/003_bahtinov_types_a.png" width="45%" class="center" />
 
 ## About Bahtinov Mask
 Several types of masks have long been used as focusing aids for astrophotography. The distinctive pattern delivered by the popular Bahtinov mask was invented by Russian amateur astrophotographer Pavel Bahtinov in 2005.
@@ -43,15 +43,21 @@ Using the Bahtinov mask on shorter focal lengths can be done, but the BF will de
 
 To overcome this challenge, I developed a Bahtinov mask based on optical level acrylic material, which offers 92% light transmission, excellent optical characteristics, light stability, and low internal stress levels for consistent performance. The CNC etched surface ensures very accurate and thin slits that generate a precise diffraction pattern with a minimal light obstruction. The slits are 180µm thick, which is similar size as the diameter of human hair. As a result, it delivers the brightest diffraction spikes for achieving an incredibly accurate focus.
 
-This new type of Bahtinov mask allows increasing the number slits in a small area, and it is several times brighter than traditional ones. In the particular case of [Skylabs Enhanced Bahtinov V2](http://skylabs.co.nz/enhanced_bahtinov_mask.html), the "*s*" value goes down to 650µm. That give a BF=65 for the popular Samyang/Rokinon 14mm f/2.8 lens and a BF=111 for Samyang/Rokinon 24mm f/1.4. Since those values are lower than the ideal, you may need to take some pictures with the mask before getting the right focus.
+This new type of Bahtinov mask allows increasing the number slits in a small area, and it is several times brighter than traditional ones. In the particular case of [Skylabs Enhanced Bahtinov V2](http://skylabs.co.nz/enhanced_bahtinov_mask.html), the "*s*" value goes down to 650µm. That give a BF=65 for the popular Samyang/Rokinon 14mm f/2.8 lens and a BF=111 for Samyang/Rokinon 24mm f/1.4. Since those values are lower than the ideal but still useable.
 
 The video below provides a quick overview of the user experience using 50mm and 75mm and two types of Bahtinov masks.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQ5zj6Sm_1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The following images have been taken with a canon 18-50mm stock lens provide at 50mm f/5.6 using an artificial star out of focus. As you can see, the number of lines contributing to the diffraction pattern in the Skylabs Enhanced Bahtinov mask V1 and V2 are significantly higher than the 3D printed ones.
+The following images have been taken with a canon 18-55mm stock lens provide at 55mm f/5.6 using an artificial star out of focus. As you can see, the number of lines contributing to the diffraction pattern in the Skylabs Enhanced Bahtinov mask V1 and V2 are significantly higher than the 3D printed ones.
 
-There are other brands in the market. The Skylabs Enhanced Bahtinov masks are compatible with the most popular square filter formats (Haida, NiSi, Lee, K&F Concept, Cokin, BENRO, Formatt-Hitech, etc.), which also ensures that it can be used across multiple lens sizes.
+<img src="/blog/assets/images/003_bahtinov_a_55mm.png" width="45%" class="center" /><img src="/blog/assets/images/003_bahtinov_b_55mm.png" width="45%" class="center" /><img src="/blog/assets/images/003_bahtinov_c_55mm.png" width="45%" class="center" />
+
+The following images have need taken with the same equipment at 18mm f/3.5. As you can see, the 3D printed version will not generate any pattern, while the Skylabs Enhanced Bahtinov mask V1 and V2 are still able to deliver a useful focusing aide.
+
+<img src="/blog/assets/images/003_bahtinov_a_18mm.png" width="45%" class="center" /><img src="/blog/assets/images/003_bahtinov_b_18mm.png" width="45%" class="center" /><img src="/blog/assets/images/003_bahtinov_c_18mm.png" width="45%" class="center" />
+
+The Skylabs Enhanced Bahtinov masks are compatible with the most popular square filter formats (Haida, NiSi, Lee, K&F Concept, Cokin, BENRO, Formatt-Hitech, etc.), which also ensures that it can be used across multiple lens sizes.
 
 The Skylabs Enhanced Bahtinov will outperform with bright lenses (low f-number) and long focal lengths. As the f-number grows, the resolution of the diffraction pattern fades out. Avoid stopping-down your lenses while you are evaluating the focus. If you are working with a short focal length (<14mm) and high f/number (>2.8) consider pointing to a very bright star or a distant light bulb further than the hyperfocal distance. A torch covered with a foil and a pinhole will work.
 Technology has been able to bring this useful tool to short focal lengths; unfortunately, extremely short focal lengths require sensors with very small pixels. If you want to use a fisheye 8mm or shorter, check first if the size of the pixels of your sensor is over 4µm.
@@ -65,4 +71,4 @@ Tri-Bahtinov masks in camera lenses are a challenge because the shape of the mas
 - Short focal lengths with a high f-number (slow lenses) will not work even using a Skylabs Enhanced Bahtinov mask V2.
 - If you are using fisheye lenses, the limitation will be on the size of the pixels of your sensor.
 
-If you live in New Zealand, you will find Skylabs Enhanced Bahtinov on [Trademe](https://www.trademe.co.nz/Browse/Listing.aspx?archive=1&id=2814754675). Check the [Skylabs NZ](http://skylabs.co.nz/enhanced_bahtinov_mask.html) website to place international orders.
+If you live in New Zealand, you will find Skylabs Enhanced Bahtinov maks and 3D printed Bahtinov masks on [Trademe](https://www.trademe.co.nz/Members/Listings.aspx?member=7590343). Check the [Skylabs NZ](http://skylabs.co.nz/enhanced_bahtinov_mask.html) website to place international orders. You can also order directly to Skylabs by sending an email.
