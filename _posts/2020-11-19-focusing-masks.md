@@ -33,7 +33,7 @@ The Bahtinov factor is defined as:
 
 Where “*f*” is the focal length and “*s*” is the size of the slit+space. To get enough resolution, the Bahtinov factor must be at least 150, ideally 200. Obviously, the more lines, the better.
 
-That means that the real limiting component is the focal length. The shorter it is, the smaller the slits and spaces have to be. As cuts get too small, you can multiply the “s” number by 3 and use 3rd order spectrum, as it has no visual difference compared to the 1st one.
+That means that the real limiting component is the focal length. The shorter it is, the smaller the slits and spaces have to be. As cuts get too small, you can multiply the “*s*” number by 3 and use 3rd order spectrum, as it has no visual difference compared to the 1st one.
 
 The following image represents a tri-Bahtinov mask I created for a 75mm lens with BF=200, using the 3rd order spectrum. The slits are ~0.6mm wide, which sits almost at the limit of 3D printing.
 
@@ -41,15 +41,15 @@ The following image represents a tri-Bahtinov mask I created for a 75mm lens wit
 
 Using the Bahtinov mask on shorter focal lengths can be done, but the BF will decrease, and it will introduce a lot of light obstruction, to the point is not going to be useful.
 
-To overcome this challenge, I developed a Bahtinov mask based on optical level acrylic material, which offers 92% light transmission, excellent optical characteristics, light stability, and low internal stress levels for consistent performance. The CNC etched surface ensures very accurate and thin slits that generate a precise diffraction pattern with a minimal light obstruction. As a result, it delivers the brightest diffraction spikes for achieving an incredibly accurate focus.
+To overcome this challenge, I developed a Bahtinov mask based on optical level acrylic material, which offers 92% light transmission, excellent optical characteristics, light stability, and low internal stress levels for consistent performance. The CNC etched surface ensures very accurate and thin slits that generate a precise diffraction pattern with a minimal light obstruction. The slits are 180µm thick, which is similar size as the diameter of human hair. As a result, it delivers the brightest diffraction spikes for achieving an incredibly accurate focus.
 
-This new type of Bahtinov mask allows increasing the number slits in a small area, and it is several times brighter than traditional ones.
+This new type of Bahtinov mask allows increasing the number slits in a small area, and it is several times brighter than traditional ones. In the particular case of Skylabs Enhanced Bahtinov V2, the "*s*" value goes down to 650µm. That give a BF=65 for the popular Samyang/Rokinon 14mm f/2.8 lens and a BF=111 for Samyang/Rokinon 24mm f/1.4. Since those values are lower than the ideal, you may need to take some pictures with the mask before getting the right focus.
 
-The video below provides a quick overview of the user experience using 50mm and 75mm and two types of Batinov masks.
+The video below provides a quick overview of the user experience using 50mm and 75mm and two types of Bahtinov masks.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQ5zj6Sm_1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The following images have been taken with a canon 18-50mm stock lens provide at 50mm f/5.6 using an artificial star out of focus. As you can see, the number of lines contributing to the diffraction pattern in the Skylabs Enhanced Bahtinov mask is significantly higher than the 3D printed ones.
+The following images have been taken with a canon 18-50mm stock lens provide at 50mm f/5.6 using an artificial star out of focus. As you can see, the number of lines contributing to the diffraction pattern in the Skylabs Enhanced Bahtinov mask V1 and V2 are significantly higher than the 3D printed ones.
 
 There are other brands in the market. The Skylabs Enhanced Bahtinov masks are compatible with the most popular square filter formats (Haida, NiSi, Lee, K&F Concept, Cokin, BENRO, Formatt-Hitech, etc.), which also ensures that it can be used across multiple lens sizes.
 
@@ -60,7 +60,7 @@ Tri-Bahtinov masks in camera lenses are a challenge because the shape of the mas
 
 ## Conclusions
 - If you are using focal lengths over 75mm, you can use a very affordable Bahtinov mask lens cap.
-- If you are working over 50mm, you will take real advantage of using a mask similar to the Skylabs Enhanced Batinov mask.
+- If you are working over 50mm, you will take real advantage of using a mask similar to the Skylabs Enhanced Bahtinov mask.
 - If you are using focal lengths over 14mm and slow lenses, optical grade acrylic is the only option.
-- Short focal lengths with a high f-number (slow lenses) will not work even using a Skylabs Enhanced Batinov mask.
+- Short focal lengths with a high f-number (slow lenses) will not work even using a Skylabs Enhanced Bahtinov mask V2.
 - If you are using fisheye lenses, the limitation will be on the size of the pixels of your sensor.
